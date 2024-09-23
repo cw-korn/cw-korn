@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m computer engineering student trying to get into tech.<br>🌱 I’m currently learning React and Kotlin for my internship and senior project<br>💬 Ask me about <br>⚡ Fun fact
+🔭 I’m computer engineering student trying to get into tech.<br>🌱 I’m currently learning React and Kotlin for my internship and senior project<br>💬 contact me using these social medias ⬇️⬇️⬇️
 
 
 ## 🌐 Socials:
